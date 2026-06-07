@@ -1,2 +1,2 @@
-# username.github.io
+github.io
 Online store for premium beauty creams
